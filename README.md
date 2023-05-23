@@ -6,16 +6,27 @@ This project is a digital thermometer that measures and displays temperature rea
 ## Folder Structure
 
 📂 Digital_Thermometer
+   
    |
+   
    ├── 📂 Libraries
+   
    │     ├── ⚙️ LiquidCrystal_I2C.h
+   
    │     └── ⚙️ OneWire.h
+   
    │   
+   
    ├── 📂 Sensors
+   
    │     ├── ⚙️ DS18B20.h
+   
    │     └── ⚙️ DHT.h
+   
    │   
+   
    ├── ⚙️ DigitalThermometer.ino
+   
    └── ⚙️ README.md
 
 The project folder structure consists of the following files and directories:
