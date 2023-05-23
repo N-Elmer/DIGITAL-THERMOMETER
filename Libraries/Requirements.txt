@@ -1,0 +1,4 @@
+LiquidCrystal_I2C
+OneWire
+DS18B20
+DHT
