@@ -6,7 +6,6 @@ This project is a digital thermometer that measures and displays temperature rea
 ## Folder Structure
 
 📂 Digital_Thermometer
-   
    |
    
    ├── 📂 Libraries
