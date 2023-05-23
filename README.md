@@ -1,8 +1,6 @@
 # DIGITAL-THERMOMETER
 TEMPERATURE MEASUREMENT 🌡🌡 AND DISPLAY SYSTEM
 
-# Digital Thermometer
-
 This project is a digital thermometer that measures and displays temperature readings using temperature sensors and an LCD display. It is implemented using Arduino C++.
 
 ## Folder Structure
